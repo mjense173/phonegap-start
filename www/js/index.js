@@ -44,6 +44,8 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
 
+		var ref = window.open('http://aarhusit.dk/projects/aasvk-startliste/');
+
         console.log('Received Event: ' + id);
     }
 };

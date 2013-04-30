@@ -9,7 +9,7 @@
     <name>Aasvk</name>
 
     <description>
-        Flyveliste for Aarhus Svæveflyveklub.
+        Flyveliste for Aarhus SvÃ¦veflyveklub.
     </description>
 
     <author href="http://aarhusit.dk" email="aasvk@aarhusit.dk">
@@ -53,7 +53,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.png" />
+    <icon src="res/icon/ios/aasvk/aasvk.png" />
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="res/icon/android/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />

@@ -37,7 +37,7 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        window.open('http://aarhusit.dk/projects/aasvk-startliste/');
+        window.open('http://m.aasvk.dk/');
         console.log('Received Event: ' + id);
     }
 };
